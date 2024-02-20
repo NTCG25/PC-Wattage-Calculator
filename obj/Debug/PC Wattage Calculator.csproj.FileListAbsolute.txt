@@ -1,0 +1,10 @@
+C:\Users\throw\Desktop\PC Build Calculator\PC Wattage Calculator\PC Wattage Calculator\bin\Debug\PC Wattage Calculator.exe.config
+C:\Users\throw\Desktop\PC Build Calculator\PC Wattage Calculator\PC Wattage Calculator\bin\Debug\PC Wattage Calculator.exe
+C:\Users\throw\Desktop\PC Build Calculator\PC Wattage Calculator\PC Wattage Calculator\bin\Debug\PC Wattage Calculator.pdb
+C:\Users\throw\Desktop\PC Build Calculator\PC Wattage Calculator\PC Wattage Calculator\obj\Debug\PC Wattage Calculator.csproj.AssemblyReference.cache
+C:\Users\throw\Desktop\PC Build Calculator\PC Wattage Calculator\PC Wattage Calculator\obj\Debug\PC_Wattage_Calculator.Form1.resources
+C:\Users\throw\Desktop\PC Build Calculator\PC Wattage Calculator\PC Wattage Calculator\obj\Debug\PC_Wattage_Calculator.Properties.Resources.resources
+C:\Users\throw\Desktop\PC Build Calculator\PC Wattage Calculator\PC Wattage Calculator\obj\Debug\PC Wattage Calculator.csproj.GenerateResource.cache
+C:\Users\throw\Desktop\PC Build Calculator\PC Wattage Calculator\PC Wattage Calculator\obj\Debug\PC Wattage Calculator.csproj.CoreCompileInputs.cache
+C:\Users\throw\Desktop\PC Build Calculator\PC Wattage Calculator\PC Wattage Calculator\obj\Debug\PC Wattage Calculator.exe
+C:\Users\throw\Desktop\PC Build Calculator\PC Wattage Calculator\PC Wattage Calculator\obj\Debug\PC Wattage Calculator.pdb

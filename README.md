@@ -19,7 +19,7 @@ Instructions:
 
 4. Profit!
 
-Made using C# + WinForm
+
 
 
 
@@ -27,3 +27,6 @@ Made using C# + WinForm
 Here's a picture of the product:
 
 (https://github.com/NTCG25/PC-Wattage-Calculator/assets/65662881/ed7ee31e-62e7-4c96-998b-8b8c1bcb582c)
+
+
+Made using C# + WinForm
